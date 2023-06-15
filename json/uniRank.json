@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "SL",
+      "title": "University Name",
+      "city": "City",
+      "imgSrc": "Logo"
+    },
+    {
+      "id": 1,
+      "title": "BRAC University",
+      "city": "Dhaka",
+      "imgSrc": "/images/brac.png"
+    },
+    {
+      "id": 2,
+      "title": "North South university",
+      "city": "Dhaka",
+      "imgSrc": "/images/brac.png"
+    },
+    {
+      "id": 3,
+      "title": "Daffodil International University",
+      "city": "Dhaka",
+      "imgSrc": "/images/brac.png"
+    },
+    {
+      "id": 4,
+      "title": "American International University-Bangladesh",
+      "city": "Dhaka",
+      "imgSrc": "/images/brac.png"
+    },
+    {
+      "id": 5,
+      "title": "Independent University, Bangladesh",
+      "city": "Dhaka",
+      "imgSrc": "/images/brac.png"
+    },
+    {
+      "id": 6,
+      "title": "United International University",
+      "city": "Dhaka",
+      "imgSrc": "/images/brac.png"
+    }
+  ]
+}
